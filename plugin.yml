@@ -1,0 +1,15 @@
+name: morph
+main: morph\main
+api: [2.0.0, 3.0.0 ,3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3]
+version: 1.0
+author: Frago9876543210
+
+commands:
+ morph:
+  description: Transform into a mob
+  permission: morph
+
+permissions:
+  morph:
+    description: Allows using all plugin's commands
+    default: op
