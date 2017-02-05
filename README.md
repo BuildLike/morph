@@ -9,3 +9,4 @@ Commands:
 
 Permissions:
 - morph:  Allows using all plugin's commands
+![img](https://pp.vk.me/c638118/v638118434/26a2c/c1Xs9OwE9mc.jpg)
