@@ -19,7 +19,7 @@ Permissions:
 - /morph del - обратно в человека
 - /morph list - доступные мобы
 
-Permissions:
+Права:
 - morph:  Позволяет использовать все команды плагина
 <hr>
 ![img](https://pp.vk.me/c638118/v638118434/26a2c/c1Xs9OwE9mc.jpg)
