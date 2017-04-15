@@ -1,5 +1,5 @@
 <h3>Morph</h3>
-
+![img](https://github.com/Frago9876543210/morph/blob/master/img/img1.png)
 Transform into mobs with this PocketMine plugin!
 
 Commands:
@@ -19,5 +19,3 @@ Permissions:
 
 Права:
 - morph:  Позволяет использовать все команды плагина
-<hr>
-![alt text](img/img1.png "img")
