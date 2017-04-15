@@ -20,4 +20,4 @@ Permissions:
 Права:
 - morph:  Позволяет использовать все команды плагина
 <hr>
-![img]()
+![img](https://github.com/Frago9876543210/morph/blob/master/img/img1.png?raw=true)
