@@ -138,7 +138,7 @@ class main extends PluginBase implements Listener
 
     public function spawn(Player $player, $name)
     {
-        $entity = Entity::createEntity($name, $player->getLevel()->getChunk($player->x >> 4, $player->z >> 4), $this->createNbt($player->x, $player->y, $player->z, $player->yaw, $player->pitch));
+        $entity = Entity::createEntity($name, $player->getLevel(), $this->createNbt($player->x, $player->y, $player->z, $player->yaw, $player->pitch));
         $entity->spawnToAll();
         $this->eid[$player->getName()] = $entity->getId();
         $entity->setNameTag($player->getName());

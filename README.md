@@ -1,4 +1,4 @@
-#morph
+<h3>Morph</h3>
 
 Transform into mobs with this PocketMine plugin!
 
@@ -10,8 +10,6 @@ Commands:
 Permissions:
 - morph:  Allows using all plugin's commands
 
-#
-
 Превращайтесь в мобов с этим плагином для PocketMine!
 
 Команды:
@@ -22,4 +20,4 @@ Permissions:
 Права:
 - morph:  Позволяет использовать все команды плагина
 <hr>
-![img](https://pp.vk.me/c638118/v638118434/26a2c/c1Xs9OwE9mc.jpg)
+![img]()

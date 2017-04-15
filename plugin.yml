@@ -1,6 +1,6 @@
 name: morph
 main: morph\main
-api: [2.0.0, 3.0.0 ,3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3]
+api: [3.0.0 ,3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3, 3.0.0-ALPHA4, 3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.1]
 version: 1.0
 author: Frago9876543210
 
