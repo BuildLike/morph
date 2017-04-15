@@ -1,5 +1,4 @@
 <h3>Morph</h3>
-![img](https://github.com/Frago9876543210/morph/blob/master/img/img1.png)
 Transform into mobs with this PocketMine plugin!
 
 Commands:
