@@ -207,7 +207,7 @@ class main extends PluginBase implements Listener
     }
 
     //COMMANDS
-    public function onCommand(CommandSender $sender, Command $cmd, $label, array $args)
+    public function onCommand(CommandSender $sender, Command $cmd, $label, array $args) : bool
     {
         $cmds = new Commands($this);
         $cmds->onCommand($sender, $cmd, $args);
